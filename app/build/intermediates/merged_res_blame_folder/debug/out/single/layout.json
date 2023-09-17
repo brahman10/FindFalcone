@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "/Users/admin/.gradle/daemon/8.0/com.traktez.findfalconeproject.app-mergeDebugResources-52:/layout/activity_main.xml",
+        "source": "/Users/admin/.gradle/daemon/8.0/com.traktez.findfalconeproject.app-main-55:/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/admin/.gradle/daemon/8.0/com.traktez.findfalconeproject.app-mergeDebugResources-52:/layout/fragment_find_falcon.xml",
+        "source": "/Users/admin/.gradle/daemon/8.0/com.traktez.findfalconeproject.app-main-55:/layout/fragment_find_falcon.xml"
+    },
+    {
+        "merged": "com.traktez.findfalconeproject.app-mergeDebugResources-52:/layout/fragment_result.xml",
+        "source": "com.traktez.findfalconeproject.app-main-55:/layout/fragment_result.xml"
+    },
+    {
+        "merged": "/Users/admin/.gradle/daemon/8.0/com.traktez.findfalconeproject.app-mergeDebugResources-52:/layout/planet_item.xml",
+        "source": "/Users/admin/.gradle/daemon/8.0/com.traktez.findfalconeproject.app-main-55:/layout/planet_item.xml"
+    },
+    {
+        "merged": "/Users/admin/.gradle/daemon/8.0/com.traktez.findfalconeproject.app-mergeDebugResources-52:/layout/item_vehicle_selection.xml",
+        "source": "/Users/admin/.gradle/daemon/8.0/com.traktez.findfalconeproject.app-main-55:/layout/item_vehicle_selection.xml"
+    },
+    {
+        "merged": "/Users/admin/.gradle/daemon/8.0/com.traktez.findfalconeproject.app-mergeDebugResources-52:/layout/ship_select_view.xml",
+        "source": "/Users/admin/.gradle/daemon/8.0/com.traktez.findfalconeproject.app-main-55:/layout/ship_select_view.xml"
+    },
+    {
+        "merged": "/Users/admin/.gradle/daemon/8.0/com.traktez.findfalconeproject.app-mergeDebugResources-52:/layout/item_planet_selection.xml",
+        "source": "/Users/admin/.gradle/daemon/8.0/com.traktez.findfalconeproject.app-main-55:/layout/item_planet_selection.xml"
+    },
+    {
+        "merged": "com.traktez.findfalconeproject.app-mergeDebugResources-52:/layout/fragment_find_falcon.xml",
+        "source": "com.traktez.findfalconeproject.app-main-55:/layout/fragment_find_falcon.xml"
+    }
+]

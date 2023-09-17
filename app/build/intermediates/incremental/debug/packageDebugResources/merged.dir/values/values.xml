@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="athens_gray">#E8EAEF</color>
+    <color name="black">#FF000000</color>
+    <color name="colorSpace">#012649</color>
+    <color name="colorSpace2">#204261</color>
+    <color name="dark_blue">#1A1E3E</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="app_name">FindFalconeProject</string>
+    <string name="find_falcone">Find Falcone</string>
+    <string name="find_falcone_problem">Find Falcone Problem</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="reset">Cancel</string>
+    <string name="select">Select</string>
+    <string name="select_space_ship">Select Space Ship</string>
+    <style name="Base.Theme.FindFalconeProject" parent="Theme.Material3.DayNight.NoActionBar">
+        
+        
+    </style>
+    <style name="Theme.FindFalconeProject" parent="Base.Theme.FindFalconeProject"/>
+</resources>

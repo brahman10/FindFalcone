@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/FindFalconeProject.iml" filepath="$PROJECT_DIR$/.idea/modules/FindFalconeProject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/FindFalconeProject.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/FindFalconeProject.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/FindFalconeProject.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/FindFalconeProject.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/FindFalconeProject.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/FindFalconeProject.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/FindFalconeProject.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/FindFalconeProject.app.unitTest.iml" />
+    </modules>
+  </component>
+</project>
